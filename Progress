@@ -1,0 +1,4 @@
+8/11/2025
+- Designing the "car" part of the robot (i.e. how to make it move forward and turn smoothly without wobbles)
+- Built a differential as a possible plan
+- Working on using the motor to steer the front wheels
