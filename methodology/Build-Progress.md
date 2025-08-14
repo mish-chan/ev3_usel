@@ -5,7 +5,16 @@
 
 8/14/2025
 - Finished assembly of frame, designed and built front rack-and-pinion steering.
-- Attached differential and steering to frame, routed wiring. 
+- Attached differential and steering to frame, routed wiring. <br> <br>
+<h4>Differential:</h4>
+<img src = "https://github.com/mish-chan/ev3_usel/blob/main/methodology/initial_differential.png" alt = "initial differential build">
+<h4>Rack-and-pinion Steering:</h4>
+<img src = "https://github.com/mish-chan/ev3_usel/blob/main/methodology/initial_steering.png" alt = "initial rack and pinion steering build">
+<h4>Full View:</h4>
+<img src = "https://github.com/mish-chan/ev3_usel/blob/main/methodology/initial_side_left.png" alt = "view from the left side">
+<img src = "https://github.com/mish-chan/ev3_usel/blob/main/methodology/initial_topdown.png" alt = "view from top down">
+
+
 - Began testing of sensors in a real-world environment.
 - The PixyCam has been trained to recognize the green and red blocks using PixyMon V2. The documents related to PixyCam object recognition training can be found here: https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2.
 - Using the PixyCam blocks in EV3 Home, a test program was written for the camera to print out "Red Block," "Green Block," or "No Block" based on trained signature recognition as mentioned above.
