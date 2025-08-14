@@ -2,3 +2,8 @@
 - Designing the "car" part of the robot (i.e. how to make it move forward and turn smoothly without wobbles)
 - Built a differential as a possible plan
 - Working on using the motor to steer the front wheels
+
+8/14/2025
+- Finished assembly of frame, designed and built front rack-and-pinion steering.
+- Attached differential and steering to frame, routed wiring. 
+- Began testing of sensors in real-world environment.
