@@ -19,3 +19,7 @@
 - The PixyCam has been trained to recognize the green and red blocks using PixyMon V2. The documents related to PixyCam object recognition training can be found here: https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2.
 - Using the PixyCam blocks in EV3 Home, a test program was written for the camera to print out "Red Block," "Green Block," or "No Block" based on trained signature recognition as mentioned above.
 <img src = "https://github.com/mish-chan/ev3_usel/blob/main/methodology/ev3recongition_simple.PNG" alt = "EV3 Home Simple Recognition Blocks">
+
+8/15/2025
+- Attempted to write a program with EV3 Home blocks. However, this proved difficult. Main issues are: hard to read; when the program is not working, it's hard to debug.
+- Created pseudo code for a possible way to run a lap in the open challenge: the main method lies in logic similar to line following. Have the vehicle stay a certain distance from the wall, using the distance sensors. Turn when hitting a colored line. If hit blue first, turn left. If hit orange, turn right. -- Logic still to be tested.
