@@ -23,3 +23,9 @@
 8/15/2025
 - Attempted to write a program with EV3 Home blocks. However, this proved difficult. Main issues are: hard to read; when the program is not working, it's hard to debug.
 - Created pseudo code for a possible way to run a lap in the open challenge: the main method lies in logic similar to line following. Have the vehicle stay a certain distance from the wall, using the distance sensors. Turn when hitting a colored line. If hit blue first, turn left. If hit orange, turn right. -- Logic still to be tested.
+
+8/18/2025
+- Moved scripting to EV3 Classroom, still working with block-coding.
+- For the first step, we used the color sensor and the gyroscope only, and successfully wrote code to allow the robot to run 3 laps by sensing the mat's colored lines.
+- Next step is to have it detect the walls to perform better turns and be flexible to the changing walls in the competition.
+- Our build is also too big, working on making it smaller without losing functionality
