@@ -29,3 +29,7 @@
 - For the first step, we used the color sensor and the gyroscope only, and successfully wrote code to allow the robot to run 3 laps by sensing the mat's colored lines.
 - Next step is to have it detect the walls to perform better turns and be flexible to the changing walls in the competition.
 - Our build is also too big, working on making it smaller without losing functionality
+
+8/19/2025
+- Made a more compact design (still working on this), attempting to allow it to run 3 laps again by fixing both design and code
+- Working on new steering designs to allow it to be small enough to fit the competition size requirement while still able to perform high-quality turns
